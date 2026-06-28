@@ -1,4 +1,4 @@
-# ArtInsight_Project1
+# ArtInsight_MachineLearning
 **Machine Learning Modeling and Pipeline | Capstone Project 1**  
 **Author:** Nathan Stinnett | **Date:** June 2026
 
